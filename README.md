@@ -1,2 +1,2 @@
-# AWS-Project.
-Creating a continuous integration pipeline using AWS.
+# aws-ci-cd
+creating a continuous integration pipeline using AWS 
